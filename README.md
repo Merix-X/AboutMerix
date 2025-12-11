@@ -4,4 +4,4 @@ I am a beginner in the development of neural networks, machine learning, and des
 
 *And I love Bitcoin and Solana!!!*
 
-...I use Arch by the way
+...I use Arch btw
